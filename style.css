@@ -1,13 +1,14 @@
 h1 {
-    color: rgba(52, 26, 146, 0.603);
+    color: #000000
 }
 
 * {
     border: solid;
+    color: #000000
 }
 
 .header{
-    background-color: cadetblue;
+    background-color: rgb(82, 118, 122);
     display: flex;
     justify-content: space-between;
 }
@@ -25,4 +26,12 @@ h1 {
 
 p,h2{
     text-align: center;
+}
+
+body{
+background-color : #a6fc06
+}
+
+text{
+    color : #000000
 }
